@@ -98,6 +98,8 @@ This script recreates the Tables 1-2, Figures 1-3; 7-9.
 
 ## 07_ardl_analysis
 
+This is the source code for the ARDL analysis and the corresponding test statistics. It also produces the QQ plots (Figs 4-6) in the appendix and the contents of Tables 3, 4 and 5.
+
 
 ## 08_robustness_analysis.R
 
